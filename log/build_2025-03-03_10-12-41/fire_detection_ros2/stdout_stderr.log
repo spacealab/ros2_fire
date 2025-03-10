@@ -1,0 +1,43 @@
+running egg_info
+creating ../build/fire_detection_ros2/fire_detection_ros2.egg-info
+writing ../build/fire_detection_ros2/fire_detection_ros2.egg-info/PKG-INFO
+writing dependency_links to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/dependency_links.txt
+writing entry points to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/entry_points.txt
+writing requirements to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/requires.txt
+writing top-level names to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/top_level.txt
+writing manifest file '../build/fire_detection_ros2/fire_detection_ros2.egg-info/SOURCES.txt'
+reading manifest file '../build/fire_detection_ros2/fire_detection_ros2.egg-info/SOURCES.txt'
+writing manifest file '../build/fire_detection_ros2/fire_detection_ros2.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+copying fire_detection_ros2/image_processing.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+copying fire_detection_ros2/__init__.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+copying fire_detection_ros2/model_config.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+copying fire_detection_ros2/webcam_fire.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+running install
+running install_lib
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/image_processing.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/__init__.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/model_config.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/webcam_fire.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/image_processing.py to image_processing.cpython-312.pyc
+byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/model_config.py to model_config.cpython-312.pyc
+byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/webcam_fire.py to webcam_fire.cpython-312.pyc
+running install_data
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index/resource_index
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index/resource_index/packages
+copying resource/fire_detection_ros2 -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index/resource_index/packages
+copying package.xml -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/fire_detection_ros2
+creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/fire_detection_ros2/launch
+copying launch/fire_detection.launch.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/fire_detection_ros2/launch
+running install_egg_info
+Copying ../build/fire_detection_ros2/fire_detection_ros2.egg-info to /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2-0.0.0-py3.12.egg-info
+running install_scripts
+Installing webcam_fire script to /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/fire_detection_ros2
+writing list of installed files to '/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/install.log'

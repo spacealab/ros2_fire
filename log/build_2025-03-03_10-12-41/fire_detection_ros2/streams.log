@@ -1,0 +1,45 @@
+[0.729s] Invoking command in '/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/fire_detection_ros2': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/fire_detection_ros2 build --build-base /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build install --record /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/install.log --single-version-externally-managed install_data
+[0.967s] running egg_info
+[0.968s] creating ../build/fire_detection_ros2/fire_detection_ros2.egg-info
+[0.986s] writing ../build/fire_detection_ros2/fire_detection_ros2.egg-info/PKG-INFO
+[0.986s] writing dependency_links to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/dependency_links.txt
+[0.987s] writing entry points to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/entry_points.txt
+[0.987s] writing requirements to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/requires.txt
+[0.987s] writing top-level names to ../build/fire_detection_ros2/fire_detection_ros2.egg-info/top_level.txt
+[0.987s] writing manifest file '../build/fire_detection_ros2/fire_detection_ros2.egg-info/SOURCES.txt'
+[1.025s] reading manifest file '../build/fire_detection_ros2/fire_detection_ros2.egg-info/SOURCES.txt'
+[1.025s] writing manifest file '../build/fire_detection_ros2/fire_detection_ros2.egg-info/SOURCES.txt'
+[1.025s] running build
+[1.025s] running build_py
+[1.026s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build
+[1.026s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib
+[1.026s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+[1.026s] copying fire_detection_ros2/image_processing.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+[1.026s] copying fire_detection_ros2/__init__.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+[1.026s] copying fire_detection_ros2/model_config.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+[1.026s] copying fire_detection_ros2/webcam_fire.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2
+[1.026s] running install
+[1.031s] running install_lib
+[1.051s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+[1.052s] copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/image_processing.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+[1.052s] copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/__init__.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+[1.052s] copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/model_config.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+[1.052s] copying /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build/lib/fire_detection_ros2/webcam_fire.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2
+[1.052s] byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/image_processing.py to image_processing.cpython-312.pyc
+[1.053s] byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/__init__.py to __init__.cpython-312.pyc
+[1.053s] byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/model_config.py to model_config.cpython-312.pyc
+[1.054s] byte-compiling /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2/webcam_fire.py to webcam_fire.cpython-312.pyc
+[1.055s] running install_data
+[1.055s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index
+[1.055s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index/resource_index
+[1.055s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index/resource_index/packages
+[1.055s] copying resource/fire_detection_ros2 -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/ament_index/resource_index/packages
+[1.056s] copying package.xml -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/fire_detection_ros2
+[1.056s] creating /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/fire_detection_ros2/launch
+[1.056s] copying launch/fire_detection.launch.py -> /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/share/fire_detection_ros2/launch
+[1.056s] running install_egg_info
+[1.077s] Copying ../build/fire_detection_ros2/fire_detection_ros2.egg-info to /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages/fire_detection_ros2-0.0.0-py3.12.egg-info
+[1.078s] running install_scripts
+[1.208s] Installing webcam_fire script to /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/fire_detection_ros2
+[1.208s] writing list of installed files to '/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/install.log'
+[1.237s] Invoked command in '/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/fire_detection_ros2' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/install/fire_detection_ros2/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/fire_detection_ros2 build --build-base /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/build install --record /home/ali/Desktop/DigitalTechnologies/KURS/Fire/ROS_PACK/src/build/fire_detection_ros2/install.log --single-version-externally-managed install_data

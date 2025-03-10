@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: fire-detection-ros2
+Version: 0.0.0
+Summary: ROS2 package for fire detection using YOLO
+Maintainer: Ali Alipour
+Maintainer-email: a.alipour@ostfalia.de
+License: TODO: License declaration
