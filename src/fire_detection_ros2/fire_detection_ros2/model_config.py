@@ -16,9 +16,8 @@ config = {
     "MODEL_FOLDER": "runs/detect",
     "DEFAULT_MODEL": "Model 7",
     "AVAILABLE_MODELS": {
-        "Model 2": "fire_detection_ros2/fire_detection_ros2/runs/detect/train2/weights/best.pt",
-        "Model 4": "fire_detection_ros2/fire_detection_ros2/runs/detect/train9/weights/best.pt",
-        "Model 7": "fire_detection_ros2/fire_detection_ros2/runs/detect/train12/weights/best.pt"
+        "Model 2": "src/fire_detection_ros2/fire_detection_ros2/runs/detect/train2/weights/best.pt",
+        "Model 7": "src/fire_detection_ros2/fire_detection_ros2/runs/detect/train14/weights/best.pt"
     },
     "MAX_CONTENT_LENGTH": 50 * 1024 * 1024  # 50MB - Increased file size limit
 }
